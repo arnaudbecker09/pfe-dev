@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a3d6076220c386458e86e1fd51deedd, type: 3}
+  m_Name: Draco
+  m_EditorClassIdentifier: 
+  cardName: Draco
+  attack: 1
+  defense: 2
+  description: un dragon
+  artwork: {fileID: -4508642649485646391, guid: b1f188493cab3aa4e95a2d901204f328, type: 3}
